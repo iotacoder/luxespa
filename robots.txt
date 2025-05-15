@@ -7,4 +7,4 @@ Allow: /#contact
 Allow: /sitemap.xml
 Disallow: /admin/
 Disallow: /private/
-Sitemap: https://luxespa.com/sitemap.xml 
+Sitemap: https://iotacoder.github.io/luxespa/sitemap.xml 
