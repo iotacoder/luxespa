@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /#services
+Allow: /#about
+Allow: /#booking
+Allow: /#contact
+Allow: /sitemap.xml
+Disallow: /admin/
+Disallow: /private/
+Sitemap: https://luxespa.com/sitemap.xml 
